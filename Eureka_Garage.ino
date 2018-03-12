@@ -24,8 +24,8 @@ SoftwareSerial mySerialSound(25, 23); // RX, TX
 #define ButtonC 10
 #define ButtonD 11
 
-#define PetrolPumpA_Input 31 // counter signal from pumpA
-#define PetrolPumpB_Input 33 // counter signal from pumpB
+#define PetrolPumpA_Input 31 // counter signal from PumpA
+#define PetrolPumpB_Input 33 // counter signal from PumpB
 #define PetrolPumpA_Reset 35 // output to pump
 #define PetrolPumpB_Reset 37 // output to pump
 
